@@ -20,7 +20,19 @@
                         "size": 1984980,
                         "MD5": "23bf6a8c5ba938db7d13959a2630357f",
                         "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.19.5/fabric-loader-0.19.5.jar"
-                    }
+                    },
+                    "subModules": [
+                        {
+                            "id": "fabric-loader-0.19.5-1.21.11",
+                            "name": "Fabric Loader Version Manifest",
+                            "type": "VersionManifest",
+                            "artifact": {
+                                "size": 2865,
+                                "MD5": "0e4ddfd27d54ada6fdf5955a7239299f",
+                                "url": "https://meta.fabricmc.net/v2/versions/loader/1.21.11/0.19.5/profile/json"
+                            }
+                        }
+                    ]
                 },
                 {
                     "id": "net.fabricmc:fabric-api:0.141.3",
