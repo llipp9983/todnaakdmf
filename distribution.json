@@ -1,0 +1,136 @@
+{
+    "version": "1.0.0",
+    "servers": [
+        {
+            "id": "SaeumVillage-1.21.11",
+            "name": "새움마을",
+            "description": "새움마을 Minecraft 서버에 오신 것을 환영합니다!",
+            "icon": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/saeumvillage-dist/main/icon.png",
+            "version": "1.0.0",
+            "address": "saeumvillage.mcv.kr",
+            "minecraftVersion": "1.21.1",
+            "mainServer": true,
+            "autoconnect": true,
+            "modules": [
+                {
+                    "id": "net.fabricmc:fabric-loader:FABRIC_LOADER_VERSION",
+                    "name": "Fabric Loader",
+                    "type": "Fabric",
+                    "artifact": {
+                        "size": 0,
+                        "MD5": "FABRIC_LOADER_MD5",
+                        "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/FABRIC_LOADER_VERSION/fabric-loader-FABRIC_LOADER_VERSION.jar"
+                    }
+                },
+                {
+                    "id": "net.fabricmc:fabric-api:0.141.3",
+                    "name": "Fabric API",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 2412693,
+                        "MD5": "f7e723a1649302a0a6923022a7596f1a",
+                        "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/saeumvillage-dist/main/mods/fabric-api-0.141.3+1.21.11.jar"
+                    }
+                },
+                {
+                    "id": "com.jellysquid3:sodium:0.8.7",
+                    "name": "Sodium",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 1870358,
+                        "MD5": "be9eef883db31e21e422aed7262df919",
+                        "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/saeumvillage-dist/main/mods/sodium-fabric-0.8.7+mc1.21.11.jar"
+                    }
+                },
+                {
+                    "id": "net.irisshaders:iris:1.10.7",
+                    "name": "Iris Shaders",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 2807547,
+                        "MD5": "5a7742b06041a0a98aa5df00ec8ce9a9",
+                        "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/saeumvillage-dist/main/mods/iris-fabric-1.10.7+mc1.21.11.jar"
+                    }
+                },
+                {
+                    "id": "journeymap:journeymap:6.0.0-beta.65",
+                    "name": "JourneyMap",
+                    "type": "FabricMod",
+                    "required": {
+                        "value": false,
+                        "def": true
+                    },
+                    "artifact": {
+                        "size": 3715378,
+                        "MD5": "9800ea058729979e032b11abe5fcff1d",
+                        "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/saeumvillage-dist/main/mods/journeymap-fabric-1.21.11-6.0.0-beta.65.jar"
+                    }
+                },
+                {
+                    "id": "com.bawnorton:mousetweaks:2.30",
+                    "name": "Mouse Tweaks",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 75618,
+                        "MD5": "44f747eddb6318544459f02bfbebf752",
+                        "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/saeumvillage-dist/main/mods/MouseTweaks-fabric-mc1.21.11-2.30.jar"
+                    }
+                },
+                {
+                    "id": "me.isxander:punchy:2.5.8",
+                    "name": "Punchy",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 2102180,
+                        "MD5": "3b6926c08be7a0bed7e0ea190d6b4aae",
+                        "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/saeumvillage-dist/main/mods/punchy-2.5.8-fabric-1.21.11.jar"
+                    }
+                },
+                {
+                    "id": "dev.tr7zw:skinlayers3d:1.11.2",
+                    "name": "3D Skin Layers",
+                    "type": "FabricMod",
+                    "required": {
+                        "value": false,
+                        "def": true
+                    },
+                    "artifact": {
+                        "size": 1988266,
+                        "MD5": "71189bb21d76f48ff06fa0ba2adb7274",
+                        "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/saeumvillage-dist/main/mods/skinlayers3d-fabric-1.11.2-mc1.21.11.jar"
+                    }
+                },
+                {
+                    "id": "com.dpplugins:dp-paint-mod:1.0.0",
+                    "name": "DP Paint Mod",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 83537,
+                        "MD5": "dfe91c7d69c112960b789426884f31fb",
+                        "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/saeumvillage-dist/main/mods/DPPaintMod1.0.0.jar"
+                    }
+                },
+                {
+                    "id": "com.dpplugins:dp-screen-mod:1.0.0",
+                    "name": "DP Screen Mod",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 564758,
+                        "MD5": "6590cc8cbfc23491bc521c0b7baaf7f8",
+                        "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/saeumvillage-dist/main/mods/DPScreenMod1.0.0.jar"
+                    }
+                },
+                {
+                    "id": "com.dpplugins:dp-custom-item-client:1.0.0",
+                    "name": "DP Custom Item Client",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 93461,
+                        "MD5": "b2c227b6b60fef25b2abcc5e658fda04",
+                        "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/saeumvillage-dist/main/mods/DP-CustomItem-Client-1.0.0.jar"
+                    }
+                }
+            ]
+        }
+    ]
+}
