@@ -6,7 +6,7 @@
             "name": "새움마을",
             "description": "새움마을 Minecraft 서버에 오신 것을 환영합니다!",
             "icon": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/icon.png",
-            "version": "1.0.0",
+            "version": "1.1.0",
             "address": "saeumvillage.mcv.kr",
             "minecraftVersion": "1.21.11",
             "mainServer": true,
@@ -207,9 +207,19 @@
                     "name": "DP Custom Item Client",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 93461,
-                        "MD5": "b2c227b6b60fef25b2abcc5e658fda04",
+                        "size": 254971,
+                        "MD5": "8b4163b49feebaab37bb11b128862301",
                         "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/DP-CustomItem-Client-1.0.0.jar"
+                    }
+                },
+                {
+                    "id": "com.dpplugins:dp-cosmetic:1.0.0",
+                    "name": "DP Cosmetic Mod",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 1810437,
+                        "MD5": "d605ac192fe8517bc10ae87c9279c6a4",
+                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/DP-Cosmetic-Mod-1.0.0.jar"
                     }
                 }
             ]
