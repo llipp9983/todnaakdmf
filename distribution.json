@@ -6,7 +6,7 @@
             "name": "새움마을",
             "description": "새움마을 Minecraft 서버에 오신 것을 환영합니다!",
             "icon": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/icon.png",
-            "version": "1.2.2",
+            "version": "1.2.3",
             "address": "saeumvillage.mcv.kr",
             "minecraftVersion": "1.21.11",
             "mainServer": true,
@@ -205,13 +205,13 @@
                     }
                 },
                 {
-                    "id": "com.dpplugins:dpcustomitem:2.3.0",
+                    "id": "com.dpplugins:dpcustomitem:3.0.0",
                     "name": "DP-CustomItem",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 470901,
-                        "MD5": "732b396b1153e4a16cb074269d335910",
-                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/DP-CustomItem-Client-2.3.0.jar"
+                        "size": 289153,
+                        "MD5": "d4ad3a878ba865397a773b06e43026cb",
+                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/DP-CustomItem-Client-3.0.0.jar"
                     }
                 },
                 {
@@ -219,8 +219,8 @@
                     "name": "DP-CustomBlock",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 554734,
-                        "MD5": "fbb99192bc3bf6346ba0c8114fd13377",
+                        "size": 556951,
+                        "MD5": "90e66185d5f87ab32475ba2054d330a2",
                         "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/DP-CustomBlock-Client-1.1.0.jar"
                     }
                 },
