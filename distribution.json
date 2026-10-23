@@ -6,7 +6,7 @@
             "name": "새움마을",
             "description": "새움마을 Minecraft 서버에 오신 것을 환영합니다!",
             "icon": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/icon.png",
-            "version": "1.1.4",
+            "version": "1.2.0",
             "address": "saeumvillage.mcv.kr",
             "minecraftVersion": "1.21.11",
             "mainServer": true,
@@ -105,151 +105,223 @@
                     ]
                 },
                 {
-                    "id": "net.fabricmc:fabric-api:0.141.3",
+                    "id": "net.fabricmc:fabric-api:0.141.6",
                     "name": "Fabric API",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 2412693,
-                        "MD5": "f7e723a1649302a0a6923022a7596f1a",
-                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/fabric-api-0.141.3+1.21.11.jar"
+                        "size": 2426039,
+                        "MD5": "d16a96ba9b0797054a012cfb1f5fd6a8",
+                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/fabric-api-0.141.6%2B1.21.11.jar"
                     }
                 },
                 {
-                    "id": "com.jellysquid3:sodium:0.8.7",
+                    "id": "fuzs:forgeconfigapiport:21.11.1",
+                    "name": "Forge Config API Port",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 598009,
+                        "MD5": "625e3619f1bd646b203b17717db2200a",
+                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/ForgeConfigAPIPort-v21.11.1-mc1.21.11-Fabric.jar"
+                    }
+                },
+                {
+                    "id": "net.caffeinemc:sodium:0.8.14",
                     "name": "Sodium",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 1870358,
-                        "MD5": "be9eef883db31e21e422aed7262df919",
-                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/sodium-fabric-0.8.7+mc1.21.11.jar"
+                        "size": 1909150,
+                        "MD5": "f2422b7d7a0635b6594a661717965fb3",
+                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/sodium-fabric-0.8.14%2Bmc1.21.11.jar"
                     }
                 },
                 {
-                    "id": "net.irisshaders:iris:1.10.7",
-                    "name": "Iris Shaders",
+                    "id": "net.irisshaders:iris:1.10.8",
+                    "name": "Iris",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 2807547,
-                        "MD5": "5a7742b06041a0a98aa5df00ec8ce9a9",
-                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/iris-fabric-1.10.7+mc1.21.11.jar"
+                        "size": 2807718,
+                        "MD5": "ecb9537a4d3ad512c602b36e32399baa",
+                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/iris-fabric-1.10.8%2Bmc1.21.11.jar"
                     }
                 },
                 {
-                    "id": "journeymap:journeymap:6.0.0-beta.65",
-                    "name": "JourneyMap",
+                    "id": "net.raphimc:immediatelyfast:1.14.3",
+                    "name": "ImmediatelyFast",
                     "type": "FabricMod",
-                    "required": {
-                        "value": false,
-                        "def": true
-                    },
                     "artifact": {
-                        "size": 3715378,
-                        "MD5": "9800ea058729979e032b11abe5fcff1d",
-                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/journeymap-fabric-1.21.11-6.0.0-beta.65.jar"
+                        "size": 302709,
+                        "MD5": "ab71dca7ff5846458ff0dfadd4dcb873",
+                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/ImmediatelyFast-Fabric-1.14.3%2B1.21.11.jar"
                     }
                 },
                 {
-                    "id": "com.bawnorton:mousetweaks:2.30",
-                    "name": "Mouse Tweaks",
+                    "id": "io.github.ultimateboomer:smoothboot:1.0.0",
+                    "name": "Smooth Boot",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 75618,
-                        "MD5": "44f747eddb6318544459f02bfbebf752",
-                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/MouseTweaks-fabric-mc1.21.11-2.30.jar"
+                        "size": 38504,
+                        "MD5": "8c72314f465951b416bbd2e2143b2720",
+                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/SmoothBoot%2B1.21.11-1.0.0.jar"
                     }
                 },
                 {
-                    "id": "me.isxander:punchy:2.5.8",
-                    "name": "Punchy",
+                    "id": "obe:obe:1.1.52",
+                    "name": "Optimized block entities",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 2102180,
-                        "MD5": "3b6926c08be7a0bed7e0ea190d6b4aae",
-                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/punchy-2.5.8-fabric-1.21.11.jar"
+                        "size": 207866,
+                        "MD5": "ec1bdb1111f2043ca1268748b24e51c6",
+                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/obe%2B1.21.11-1.1.52.jar"
                     }
                 },
                 {
-                    "id": "dev.tr7zw:skinlayers3d:1.11.2",
-                    "name": "3D Skin Layers",
+                    "id": "com.github.dima_dencep:rrls:5.1.15",
+                    "name": "Remove Reloading Screen",
                     "type": "FabricMod",
-                    "required": {
-                        "value": false,
-                        "def": true
-                    },
                     "artifact": {
-                        "size": 1988266,
-                        "MD5": "71189bb21d76f48ff06fa0ba2adb7274",
-                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/skinlayers3d-fabric-1.11.2-mc1.21.11.jar"
+                        "size": 198379,
+                        "MD5": "b0f1caaca547f9c35925246641e21ddd",
+                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/rrlsFabric-5.1.15%2Bmc.1.21.11.jar"
                     }
                 },
                 {
-                    "id": "com.dpplugins:dp-paint-mod:1.0.0",
-                    "name": "DP Paint Mod",
+                    "id": "com.dpplugins:dppmc:1.12.0-SNAPSHOT",
+                    "name": "DPP-ModCore",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 83537,
-                        "MD5": "dfe91c7d69c112960b789426884f31fb",
-                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/DPPaintMod1.0.0.jar"
+                        "size": 7760797,
+                        "MD5": "3c49c2ed059a6f091abfdae5efaf6d2e",
+                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/DPP-ModCore-1.12.0-SNAPSHOT.jar"
                     }
                 },
                 {
-                    "id": "com.dpplugins:dp-screen-mod:1.0.0",
-                    "name": "DP Screen Mod",
+                    "id": "com.dpplugins:dp-cosmetic:2.1.0",
+                    "name": "DP-Cosmetic",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 564758,
-                        "MD5": "6590cc8cbfc23491bc521c0b7baaf7f8",
-                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/DPScreenMod1.0.0.jar"
+                        "size": 1668614,
+                        "MD5": "baaf2857883b975e8a090380ebdd0ef8",
+                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/DP-Cosmetic-Mod-2.1.0.jar"
                     }
                 },
                 {
-                    "id": "com.dpplugins:dp-custom-item-client:1.0.0",
-                    "name": "DP Custom Item Client",
+                    "id": "com.dpplugins:dpcustomblock:1.1.0",
+                    "name": "DP-CustomBlock",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 254971,
-                        "MD5": "8b4163b49feebaab37bb11b128862301",
-                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/DP-CustomItem-Client-1.0.0.jar"
+                        "size": 554734,
+                        "MD5": "fbb99192bc3bf6346ba0c8114fd13377",
+                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/DP-CustomBlock-Client-1.1.0.jar"
                     }
                 },
                 {
-                    "id": "com.dpplugins:dp-cosmetic:1.0.0",
-                    "name": "DP Cosmetic Mod",
+                    "id": "com.dpplugins:dp-custompets:1.0.0",
+                    "name": "DP-CustomPets",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 1815157,
-                        "MD5": "8d499bb8764764be0981bb09a1bb83c9",
-                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/DP-Cosmetic-Mod-1.0.0.jar"
+                        "size": 318242,
+                        "MD5": "f3625448348ca3b91673e0a7bc426cdf",
+                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/DP-CustomPets-Mod-1.0.0.jar"
                     }
                 },
                 {
-                    "id": "com.dpplugins:dp-emoji:0.1.0",
-                    "name": "DP Emoji",
+                    "id": "com.dpplugins:dpemoji:0.1.0",
+                    "name": "DP-Emoji",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 6173977,
-                        "MD5": "df60604dc6eb3b1f25b3de1cca72fc33",
-                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/DP-Emoji-Fabric-1.21.11-0.1.0.jar"
+                        "size": 217232,
+                        "MD5": "70aa41f472e8eb24145624b421fdfda2",
+                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/DP-Emoji-Client-0.1.0.jar"
                     }
                 },
                 {
-                    "id": "com.dpplugins:dp-nameplate-client:0.1.0",
-                    "name": "DP NamePlate",
+                    "id": "com.dpplugins:dphg:1.0.0",
+                    "name": "DP-HUDGacha",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 6204847,
-                        "MD5": "e7a703c0e2f0969732e11c3ffb35ce01",
-                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/DP-NamePlate-Client-Fabric-1.21.11-0.1.0.jar"
+                        "size": 431101,
+                        "MD5": "eeb1005e25650288c6394f2d7773e13b",
+                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/DP-HUDGacha-Mod-1.0.0.jar"
                     }
                 },
                 {
-                    "id": "com.dpplugins:dp-worldsound-client:1.2.0",
-                    "name": "DP WorldSound",
+                    "id": "com.dpplugins:dphie:1.0.0",
+                    "name": "DP-HUDItemEditor",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 599570,
-                        "MD5": "89f81ef4659bb7288676ee45d4024d1a",
-                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/DP-WorldSound-Client-1.2.0.jar"
+                        "size": 303180,
+                        "MD5": "a19ff3addcf503b5401b6ad7d08f7199",
+                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/DP-HUDItemEditor-Mod-1.0.0.jar"
+                    }
+                },
+                {
+                    "id": "com.dpplugins:dp-hudmarket:1.0.0",
+                    "name": "DP-HUDMarket",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 226084,
+                        "MD5": "78814dffca26b0ab49fecb1e3507f209",
+                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/DP-HUDMarket-Mod-1.0.0.jar"
+                    }
+                },
+                {
+                    "id": "com.dpplugins:dp-hudquest:1.0.0",
+                    "name": "DP-HUDQuest",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 461239,
+                        "MD5": "a0ea24f774e9304cc673743128e113c6",
+                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/DP-HUDQuest-client-1.0.0.jar"
+                    }
+                },
+                {
+                    "id": "com.dpplugins:dp-hudshop:1.0.0",
+                    "name": "DP-HudShop",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 243466,
+                        "MD5": "97b5b19bb5e2cb5cd60b8b89b7624d7a",
+                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/DP-HudShop-Mod-1.0.0.jar"
+                    }
+                },
+                {
+                    "id": "com.dpplugins:dp-nameplate:0.1.0",
+                    "name": "DP-NamePlate",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 266423,
+                        "MD5": "cd035eedb215cea44ed54f39512e324c",
+                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/DP-NamePlate-Client-0.1.0.jar"
+                    }
+                },
+                {
+                    "id": "com.dpplugins:dp-paint:2.0.0",
+                    "name": "DP-Paint",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 75446,
+                        "MD5": "fea37fb80301511861c8d9b22198c056",
+                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/DP-Paint-Mod-2.0.0.jar"
+                    }
+                },
+                {
+                    "id": "com.dpplugins:dpscreen:2.0.0",
+                    "name": "DP-Screen",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 2756367,
+                        "MD5": "5a097036b36f675daa10bf866bf1bee2",
+                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/DP-Screen-Mod-2.0.0.jar"
+                    }
+                },
+                {
+                    "id": "com.dpplugins:dpworldsound:2.0.0",
+                    "name": "DP-WorldSound",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 358775,
+                        "MD5": "2fa648b48d77565e2d2e725969766ae1",
+                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/DP-WorldSound-Client-2.0.0.jar"
                     }
                 }
             ]
