@@ -6,7 +6,7 @@
             "name": "새움마을",
             "description": "새움마을 Minecraft 서버에 오신 것을 환영합니다!",
             "icon": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/icon.png",
-            "version": "1.2.11",
+            "version": "1.2.12",
             "address": "saeumvillage.mcv.kr",
             "minecraftVersion": "1.21.11",
             "mainServer": true,
@@ -219,8 +219,8 @@
                     "name": "DP-CustomBlock",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 556996,
-                        "MD5": "2360f34a7078d6f337a731cf1ccf57dd",
+                        "size": 558324,
+                        "MD5": "450cdfe3cfc79a27cbe2bb486f33ce39",
                         "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/DP-CustomBlock-Client-1.1.0.jar"
                     }
                 },
