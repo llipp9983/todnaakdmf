@@ -6,7 +6,7 @@
             "name": "새움마을",
             "description": "새움마을 Minecraft 서버에 오신 것을 환영합니다!",
             "icon": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/icon.png",
-            "version": "1.2.5",
+            "version": "1.2.6",
             "address": "saeumvillage.mcv.kr",
             "minecraftVersion": "1.21.11",
             "mainServer": true,
@@ -249,8 +249,8 @@
                     "name": "DP-HUDGacha",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 431112,
-                        "MD5": "0a612af7984677bf1a67db574ec65319",
+                        "size": 432965,
+                        "MD5": "3748512cddfd0445d388572470f54e73",
                         "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/DP-HUDGacha-Mod-1.0.0.jar"
                     }
                 },
