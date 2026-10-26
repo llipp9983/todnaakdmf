@@ -6,7 +6,7 @@
             "name": "새움마을",
             "description": "새움마을 Minecraft 서버에 오신 것을 환영합니다!",
             "icon": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/icon.png",
-            "version": "1.2.7",
+            "version": "1.2.8",
             "address": "saeumvillage.mcv.kr",
             "minecraftVersion": "1.21.11",
             "mainServer": true,
@@ -189,8 +189,8 @@
                     "name": "DPP-ModCore",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 7760797,
-                        "MD5": "3c49c2ed059a6f091abfdae5efaf6d2e",
+                        "size": 7777723,
+                        "MD5": "2d564e9dcd1e121ab40640476b0af310",
                         "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/DPP-ModCore-1.12.0-SNAPSHOT.jar"
                     }
                 },
