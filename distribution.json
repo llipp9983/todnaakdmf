@@ -6,7 +6,7 @@
             "name": "새움마을",
             "description": "새움마을 Minecraft 서버에 오신 것을 환영합니다!",
             "icon": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/icon.png",
-            "version": "1.2.12",
+            "version": "1.2.13",
             "address": "saeumvillage.mcv.kr",
             "minecraftVersion": "1.21.11",
             "mainServer": true,
@@ -309,8 +309,8 @@
                     "name": "DP-HudTrade",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 230662,
-                        "MD5": "98ed5ee5097dbb6547a2624f0f9023cf",
+                        "size": 235406,
+                        "MD5": "b500fc6a0e71220dda471c2ecebb759d",
                         "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/DP-HudTrade-Mod-1.0.0.jar"
                     }
                 },
