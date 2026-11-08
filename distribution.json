@@ -6,7 +6,7 @@
             "name": "새움마을",
             "description": "새움마을 Minecraft 서버에 오신 것을 환영합니다!",
             "icon": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/icon.png",
-            "version": "1.2.14",
+            "version": "1.3.0",
             "address": "saeumvillage.mcv.kr",
             "minecraftVersion": "1.21.11",
             "mainServer": true,
@@ -185,103 +185,213 @@
                     }
                 },
                 {
-                    "id": "com.dpplugins:dppmc:1.12.0-SNAPSHOT",
+                    "id": "com.dpplugins:dppmc:2.21.0",
                     "name": "DPP-ModCore",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 7777723,
-                        "MD5": "2d564e9dcd1e121ab40640476b0af310",
-                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/DPP-ModCore-1.12.0-SNAPSHOT.jar"
+                        "size": 14623135,
+                        "MD5": "e96df1c59a94cba46a371f6e8544addb",
+                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/DPP-ModCore-2.21.0.jar"
                     }
                 },
                 {
-                    "id": "com.dpplugins:dp-cosmetic:2.1.0",
+                    "id": "com.dpplugins:dp-cosmetic:2.4.0",
                     "name": "DP-Cosmetic",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 1668614,
-                        "MD5": "baaf2857883b975e8a090380ebdd0ef8",
-                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/DP-Cosmetic-Mod-2.1.0.jar"
+                        "size": 567472,
+                        "MD5": "d379064f5193d90fb11531ddbc711bb3",
+                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/DP-Cosmetic-Client-2.4.0.jar"
                     }
                 },
                 {
-                    "id": "com.dpplugins:dpcustomitem:3.0.0",
-                    "name": "DP-CustomItem",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 289153,
-                        "MD5": "d4ad3a878ba865397a773b06e43026cb",
-                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/DP-CustomItem-Client-3.0.0.jar"
-                    }
-                },
-                {
-                    "id": "com.dpplugins:dpcustomblock:1.1.0",
+                    "id": "com.dpplugins:dpcustomblock:1.2.0",
                     "name": "DP-CustomBlock",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 558324,
-                        "MD5": "450cdfe3cfc79a27cbe2bb486f33ce39",
-                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/DP-CustomBlock-Client-1.1.0.jar"
+                        "size": 591977,
+                        "MD5": "78c755458ec7ae481fa36aea590ca39a",
+                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/DP-CustomBlock-Client-1.2.0.jar"
                     }
                 },
                 {
-                    "id": "com.dpplugins:dp-custompets:1.0.0",
+                    "id": "com.dpplugins:dpcustomitem:3.1.0",
+                    "name": "DP-CustomItem",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 348031,
+                        "MD5": "c37343febaa54ebb2fd77e6b05572d8d",
+                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/DP-CustomItem-Client-3.1.0.jar"
+                    }
+                },
+                {
+                    "id": "com.dpplugins:dp-custompets:1.1.0",
                     "name": "DP-CustomPets",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 322809,
-                        "MD5": "32dbee51587682f9c003689267b4fff1",
-                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/DP-CustomPets-Mod-1.0.0.jar"
+                        "size": 336980,
+                        "MD5": "900ab1b109e5f5daf7b4750cf8a1133e",
+                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/DP-CustomPets-Client-1.1.0.jar"
                     }
                 },
                 {
-                    "id": "com.dpplugins:dpemoji:0.1.0",
+                    "id": "com.dpplugins:dp-directtrade:1.0.0",
+                    "name": "DP-DirectTrade",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 61894,
+                        "MD5": "2967ebc332f6bf7503dd72115f22d4a9",
+                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/DP-DirectTrade-Mod-1.0.0.jar"
+                    }
+                },
+                {
+                    "id": "com.dpplugins:dpemoji:0.2.0",
                     "name": "DP-Emoji",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 217232,
-                        "MD5": "70aa41f472e8eb24145624b421fdfda2",
-                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/DP-Emoji-Client-0.1.0.jar"
+                        "size": 245786,
+                        "MD5": "c8add96c33c15519acef156d73b23a1d",
+                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/DP-Emoji-Client-0.2.0.jar"
                     }
                 },
                 {
-                    "id": "com.dpplugins:dphg:1.0.0",
+                    "id": "com.dpplugins:dphc:1.3.0",
+                    "name": "DP-HUDChat",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 281416,
+                        "MD5": "a05d8bc77c496325b60a94efd8914b87",
+                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/DP-HUDChat-Client-1.3.0.jar"
+                    }
+                },
+                {
+                    "id": "com.dpplugins:dphg:1.1.0",
                     "name": "DP-HUDGacha",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 432965,
-                        "MD5": "3748512cddfd0445d388572470f54e73",
-                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/DP-HUDGacha-Mod-1.0.0.jar"
+                        "size": 480469,
+                        "MD5": "8f8d0d62bed94c4cec18791a0ef77ea0",
+                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/DP-HUDGacha-Client-1.1.0.jar"
                     }
                 },
                 {
-                    "id": "com.dpplugins:dphie:1.0.0",
+                    "id": "com.dpplugins:dphie:1.1.0",
                     "name": "DP-HUDItemEditor",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 303180,
-                        "MD5": "a19ff3addcf503b5401b6ad7d08f7199",
-                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/DP-HUDItemEditor-Mod-1.0.0.jar"
+                        "size": 346018,
+                        "MD5": "252f6f52966bed39f4b56c5a358845d3",
+                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/DP-HUDItemEditor-Client-1.1.0.jar"
                     }
                 },
                 {
-                    "id": "com.dpplugins:dp-hudmarket:1.0.0",
+                    "id": "com.dpplugins:dp-hudmarket:1.1.0",
                     "name": "DP-HUDMarket",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 226084,
-                        "MD5": "78814dffca26b0ab49fecb1e3507f209",
-                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/DP-HUDMarket-Mod-1.0.0.jar"
+                        "size": 257400,
+                        "MD5": "48025e82731ad5e90f75ce32b00cd2aa",
+                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/DP-HUDMarket-Client-1.1.0.jar"
                     }
                 },
                 {
-                    "id": "com.dpplugins:dphm:1.0.0",
+                    "id": "com.dpplugins:dphm:1.1.0",
                     "name": "DP-HUDMenu",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 214930,
-                        "MD5": "47526861ec96a890b0dd7d5a44ac9ed2",
-                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/DP-HUDMenu-Mod-1.0.0.jar"
+                        "size": 252992,
+                        "MD5": "e819e37de3227725a55a7a2d79592731",
+                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/DP-HUDMenu-Client-1.1.0.jar"
+                    }
+                },
+                {
+                    "id": "com.dpplugins:dp-hudshop:1.1.0",
+                    "name": "DP-HudShop",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 288772,
+                        "MD5": "7ff0a075350b9894a489d4fe5a2fd94d",
+                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/DP-HudShop-Client-1.1.0.jar"
+                    }
+                },
+                {
+                    "id": "com.dpplugins:dp-hudtrade:1.1.0",
+                    "name": "DP-HudTrade",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 288420,
+                        "MD5": "d9ff7e35a37c48585d92299129771f66",
+                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/DP-HudTrade-Client-1.1.0.jar"
+                    }
+                },
+                {
+                    "id": "com.dpplugins:dpmb:1.1.0",
+                    "name": "DP-MobBook",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 55590,
+                        "MD5": "8a1b4bf5a3ef0f6973cc56fe20b4150e",
+                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/DP-MobBook-Client-1.1.0.jar"
+                    }
+                },
+                {
+                    "id": "com.dpplugins:dp-nameplate:0.2.0",
+                    "name": "DP-NamePlate",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 330491,
+                        "MD5": "23a0ad4b8797a8ce4684312d937e88ad",
+                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/DP-NamePlate-Client-0.2.0.jar"
+                    }
+                },
+                {
+                    "id": "com.dpplugins:dp-paint:2.1.0",
+                    "name": "DP-Paint",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 121521,
+                        "MD5": "15e939b5ea573573b4742d5d74692b89",
+                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/DP-Paint-Client-2.1.0.jar"
+                    }
+                },
+                {
+                    "id": "com.dpplugins:dpscreen:2.0.0",
+                    "name": "DP-Screen",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 2470783,
+                        "MD5": "988804316a08b061989e7753e486c91a",
+                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/DP-Screen-Client-2.0.0.jar"
+                    }
+                },
+                {
+                    "id": "com.dpplugins:dp-simplecamera:1.1.0",
+                    "name": "DP-SimpleCamera",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 96638,
+                        "MD5": "08d4332a19546268ffa6ecc7b0f92d74",
+                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/DP-SimpleCamera-Client-1.1.0.jar"
+                    }
+                },
+                {
+                    "id": "com.dpplugins:dp-vfxeditor:1.5.0",
+                    "name": "DP-VFXEditor",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 334022,
+                        "MD5": "acb85272a3dc1eff2fdc250131685ccd",
+                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/DP-VFXEditor-Client-1.5.0.jar"
+                    }
+                },
+                {
+                    "id": "com.dpplugins:dpworldsound:2.1.0",
+                    "name": "DP-WorldSound",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 410260,
+                        "MD5": "479bfcdd3889c00518149d4365eeb437",
+                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/DP-WorldSound-Client-2.1.0.jar"
                     }
                 },
                 {
@@ -292,66 +402,6 @@
                         "size": 461239,
                         "MD5": "a0ea24f774e9304cc673743128e113c6",
                         "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/DP-HUDQuest-client-1.0.0.jar"
-                    }
-                },
-                {
-                    "id": "com.dpplugins:dp-hudshop:1.0.0",
-                    "name": "DP-HudShop",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 243466,
-                        "MD5": "97b5b19bb5e2cb5cd60b8b89b7624d7a",
-                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/DP-HudShop-Mod-1.0.0.jar"
-                    }
-                },
-                {
-                    "id": "com.dpplugins:dp-hudtrade:1.0.0",
-                    "name": "DP-HudTrade",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 235418,
-                        "MD5": "2df7e4ecc2c65ca8988800a34a9e5a75",
-                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/DP-HudTrade-Mod-1.0.0.jar"
-                    }
-                },
-                {
-                    "id": "com.dpplugins:dp-nameplate:0.1.0",
-                    "name": "DP-NamePlate",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 266423,
-                        "MD5": "cd035eedb215cea44ed54f39512e324c",
-                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/DP-NamePlate-Client-0.1.0.jar"
-                    }
-                },
-                {
-                    "id": "com.dpplugins:dp-paint:2.0.0",
-                    "name": "DP-Paint",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 75446,
-                        "MD5": "fea37fb80301511861c8d9b22198c056",
-                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/DP-Paint-Mod-2.0.0.jar"
-                    }
-                },
-                {
-                    "id": "com.dpplugins:dpscreen:2.0.0",
-                    "name": "DP-Screen",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 2756367,
-                        "MD5": "5a097036b36f675daa10bf866bf1bee2",
-                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/DP-Screen-Mod-2.0.0.jar"
-                    }
-                },
-                {
-                    "id": "com.dpplugins:dpworldsound:2.0.0",
-                    "name": "DP-WorldSound",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 358775,
-                        "MD5": "2fa648b48d77565e2d2e725969766ae1",
-                        "url": "https://raw.githubusercontent.com/llipp9983/todnaakdmf/main/mods/DP-WorldSound-Client-2.0.0.jar"
                     }
                 }
             ]
